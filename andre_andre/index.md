@@ -1,4 +1,4 @@
-# Monitoramento de Gás
+# Monitoramento de Gás - [André Outi]() e [André]()
 
 Introdução:  
 Esse projeto tem como objetivo desenvolver um dispositivo que seja capaz de monitorar e controlar gases em ambientes domésticos, visando a segurança e o bem estar do usuário, uma vez que as residências escondem perigos que colocam diariamente nossa vida em risco se não forem cuidados.
@@ -26,6 +26,18 @@ Alarme sonoro para notificar os usuários em casos de emergências;
 Uma válvula eletrônica que quando acionada é capaz de fechar o vazamento de gás;
 
 Além do corte da alimentação da iluminação própria do cômodo onde vaza o gás para evitar incêndios ou explosões.
+
+## Maquete eletrônica
+
+![Maquete](maquete.png)
+
+## [Código do projeto](./codigo.ino)
+
+## Foto dos alunos e do projeto:
+
+![Alunos](alunos.jpeg)
+
+![Projeto](projeto.jpeg)
 
 Referências:
 

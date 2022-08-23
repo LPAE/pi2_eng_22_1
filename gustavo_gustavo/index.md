@@ -1,6 +1,4 @@
-# Sistema de Controle de Ar-condicionado Inteligente
-
-**Sistema de Controle de Ar-condicionado Inteligente**
+# Sistema de Controle de Ar-condicionado Inteligente - [Gustavo Marçal]() e [Gustavo Barbosa]()
 
 **Introdução:**
 
@@ -35,3 +33,15 @@
 - Deverá possuir memória interna não volátil para armazenamento dos perfis e configurações do usuário;
 - Deverá possuir sensor de temperatura próprio, para monitorar e ajustar o funcionamento do atuador (ar-condicionado);
 - Deverá possuir sensor de umidade, para sua exibição na interface inicial do sistema.
+
+## Maquete eletrônica
+
+![Maquete](maquete.png)
+
+## [Código do projeto](./codigo.ino)
+
+## Foto dos alunos e do projeto:
+
+![Alunos](alunos.jpeg)
+
+![Projeto](projeto.jpeg)
