@@ -1,4 +1,4 @@
-# Sistema de Controle de Ar-condicionado Inteligente - [Gustavo Marçal]() e [Gustavo Barbosa]()
+# Sistema de Controle de Ar-condicionado Inteligente - Gustavo Marçal e Gustavo Barbosa
 
 **Introdução:**
 

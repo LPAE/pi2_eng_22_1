@@ -1,8 +1,8 @@
-# Easyplant - [Joana](https://github.com/joananana?tab=repositories) a [Larah]()
+# Easyplant - [Joana](https://github.com/joananana?tab=repositories) e [Larah](https://github.com/LFRB-IFSC)
 
 O projeto Easyplant consiste no desenvolvimento de uma irrigação vertical para pequenos vasos com foco em hortaliças.
 
-Nosso cliente possui um perfil consciente, preocupado com sua saúde e bem estar, busca fugir de agrotóxicos e da dependência de grandes mercados, além de otimização de espaços em sua residência, por isso busca uma horta vertical automatizada.
+Nosso cliente possui um perfil consciente, preocupado com sua saúde e bem estar, busca fugir de agrotóxicos e daS dependência de grandes mercados, além de otimização de espaços em sua residência, por isso busca uma horta vertical automatizada.
 
 ![Design_o.png](Design_o.png)
 

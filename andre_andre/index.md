@@ -1,4 +1,4 @@
-# Monitoramento de Gás - [André Outi]() e [André]()
+# Monitoramento de Gás - André Outi e André
 
 Introdução:  
 Esse projeto tem como objetivo desenvolver um dispositivo que seja capaz de monitorar e controlar gases em ambientes domésticos, visando a segurança e o bem estar do usuário, uma vez que as residências escondem perigos que colocam diariamente nossa vida em risco se não forem cuidados.
